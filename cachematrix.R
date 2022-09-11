@@ -1,4 +1,4 @@
-## ProgrammingAssignment2-si im set variable x as and the solved value as ("m") and chabging the referance
+## ProgrammingAssignment2-si im set variable x as and the solved value as ("m") and will changing the referance
 source("cachematrix.R")
 my_matrix <- makeCacheMatrix(matrix(1:12, 4, 3))
 my_matrix$get()
